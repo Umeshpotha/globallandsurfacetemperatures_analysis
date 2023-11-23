@@ -1,4 +1,5 @@
 # globallandsurfacetemperatures_analysis
+<html>
 <center>
 <img src="theme.jpeg" alt="globe_image" width="200px" height="200px">
 <h1>World Surface Temperature Analysis</h1>
@@ -11,3 +12,4 @@
 4. In a country to know the mean temperatures by months (mean of months in every year).
 </p>
 </center>
+</html>
